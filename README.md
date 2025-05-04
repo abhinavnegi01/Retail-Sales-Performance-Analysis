@@ -1,4 +1,4 @@
-# Retail-Sales-Performance-Analysis
+
 # Retail Sales Analysis Project
 
 This repository contains a comprehensive Excel-based analysis of a retail sales dataset (online_retail_II.xlsx). The project explores customer behavior, sales trends, product performance, and return rates — all visualized through an interactive dashboard and supported by actionable business insights.
